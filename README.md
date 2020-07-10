@@ -7,7 +7,7 @@ Curated police misconduct data
 -Example: Baltimore_ois_071020_projectcomport.csv
 
 # Data sets: italicized cities have been curated
-_BALTIMORE: Gathered through Project Comport https://www.projectcomport.org/department/BPD/complaints/
+_BALTIMORE: Gathered through Project Comport https://www.projectcomport.org/department/BPD/complaints/_
 
 BLOOMINGTON: https://catalog.data.gov/dataset/citizen-complaints
 
