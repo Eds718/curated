@@ -1,6 +1,11 @@
 # curated
 Curated police misconduct data
 
+# File naming convention:
+[City][dataset type][datecurated][source]
+Dataset type: com = complaint; uof = use of force; ois = officer involved shooting
+Example: Baltimore_ois_071020_projectcomport.csv
+
 BALTIMORE: Gathered through Project Comport https://www.projectcomport.org/department/BPD/complaints/
 
 BLOOMINGTON: https://catalog.data.gov/dataset/citizen-complaints
